@@ -37,7 +37,7 @@
 
 * *gitlab-group-id* — идентификатор группы.
 * *hexlet-user-id* — идентификатор студента на Хекслете.
-* *gitlab-token* — *Personal access token* из Gitlab. О нём рассказывается в [статье про домашние задания](https://help.hexlet.io/ru/articles/192894-domasnie-zadaniya#:~:text=Access%20Tokens).
+* *gitlab-token* — *Personal access token* из Gitlab. О нём рассказывается в [статье про домашние задания](https://help.hexlet.io/ru/articles/308674-domasnie-zadaniia).
 
 ### Использование
 
